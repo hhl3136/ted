@@ -4,6 +4,7 @@ public class Test {
 	public static int getChar(String text){  
 		int n=0;
 		int index=0;
+		/*双循环有些低级*/
         for(int i=0;i<text.length();i++){
         	char c = text.charAt(i);
         	for(int j=0;j<text.length();j++){

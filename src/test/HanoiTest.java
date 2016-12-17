@@ -13,7 +13,7 @@ public class HanoiTest {
 				"号盘子"+from+"----移至---"+to);
 	}
 	//No.1
-	//开始写代码，汉诺塔问题，实现move方法
+	//开始写代码，汉诺塔问题，实现move方法,递归
 	public void move(int columnsNumber, char A, char B, char C) {
 		if(columnsNumber==1){
 			moveTo(columnsNumber, A, C); 

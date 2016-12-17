@@ -17,5 +17,6 @@ public class HelloWorld {
 		this.username = username;
 	}
 	
-	
+	public HelloWorld() {
+	}
 }

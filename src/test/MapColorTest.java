@@ -21,7 +21,7 @@ public class MapColorTest {
 	private void backtrack(int t) {
 		int n = map[0].length;
 		//No.1
-		//开始写代码，完成回溯功能
+		//开始写代码，完成回溯功能，回溯算法
 		if(t>n) {
 			sum++;
 			print(sum);
