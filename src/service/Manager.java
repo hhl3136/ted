@@ -11,7 +11,7 @@ public class Manager {
 	//test by hhl
 	//test by commit
 	//testghhj
-
+//;lllll
 	public int getId() {
 		return id;
 	}
