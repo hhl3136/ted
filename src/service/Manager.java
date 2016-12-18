@@ -8,6 +8,8 @@ public class Manager {
 	private String username;
 	private String password;
 	
+	//test by hhl
+	//test by commit
 	
 
 	public int getId() {
