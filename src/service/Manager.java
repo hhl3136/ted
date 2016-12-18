@@ -10,7 +10,7 @@ public class Manager {
 	
 	//test by hhl
 	//test by commit
-	
+	//testghhj
 
 	public int getId() {
 		return id;
